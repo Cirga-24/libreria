@@ -20,6 +20,6 @@ public class LibroImpreso extends Libro{
 
     @Override
     public String toString() {
-        return super.toString() + "\nPeso=" + peso + " kg";
+        return super.toString() + "\nPeso= " + peso + " kg";
     }
 }

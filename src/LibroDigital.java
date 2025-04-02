@@ -19,6 +19,6 @@ public class LibroDigital extends Libro {
 
     @Override
     public String toString() {
-        return super.toString() + "\ntamanioArchivo=" + tamanioArchivo;
+        return super.toString() + "\nTamaño Archivo= " + tamanioArchivo;
     }
 }
